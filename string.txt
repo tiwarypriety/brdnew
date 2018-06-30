@@ -1,0 +1,8 @@
+public  String toString()
+     {
+     	return "customerCode:"+customerCode+" "+ "Name:" +customerName+" "+ "customerAddress1"+customerAddress1+ " "+ "customerAddress2:"+customerAddress2+"  " +"pin"+pin
+            + " "    + "mailId"+ mailId+" "+ "contactNumber"+contactNumber+" " +"contactPerson"+contactPerson+" "+"recordStatus"+recordStatus+" "+"flag"+flag+" "+ "date"+ date+" "+"createdBy"+createdBy
+     +" "+"modifiedDate"+modifiedDate+" "+"modifiedBy"+modifiedBy+" "+"authorizedDate"+authorizedDate+" "+"authorizedBy"+authorizedBy+"\n";
+	
+
+     }
